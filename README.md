@@ -1,6 +1,3 @@
-#### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/30Sana/count.svg)
-
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=30Sana&show_icons=true&theme=dracula)](https://github.com/vvanglro/vvanglro)
 
 - 📫 How to reach me **sana@autotraffic.ca**
@@ -17,3 +14,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=30sana&show_icons=true&locale=en" alt="30sana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=30sana&" alt="30sana" /></p>
+
+#### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/30Sana/count.svg)
