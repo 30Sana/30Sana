@@ -1,4 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=30sana&label=Profile%20views&color=0e75b6&style=flat" alt="30sana" /> </p>
+#### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/vvanglro/count.svg)
+
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=30Sana&show_icons=true&theme=dracula)](https://github.com/vvanglro/vvanglro)
 
 - 📫 How to reach me **sana@autotraffic.ca**
 
