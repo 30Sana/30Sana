@@ -1,4 +1,4 @@
-- Reach me at **sana@autotraffic.ca** 📫 
+📫 Reach me at **sana@autotraffic.ca**
 
 #### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/30Sana/count.svg)
