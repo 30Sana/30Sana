@@ -10,11 +10,9 @@
 
 <h2 align="center">Skills </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=30sana&show_icons=true&locale=en&layout=compact" alt="30sana" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=30sana&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="30sana" /></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=30Sana&show_icons=true&theme=midnight-purple)](https://github.com/30Sana/30Sana)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=30sana&" alt="30sana" /></p>
 
 #### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/30Sana/count.svg)
