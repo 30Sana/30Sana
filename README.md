@@ -1,4 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=30Sana&show_icons=true&theme=shadow_red)](https://github.com/30Sana/30Sana)
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/282008877753696268/>
+</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=30Sana&show_icons=true&theme=midnight-purple)](https://github.com/30Sana/30Sana)
 
 - 📫 How to reach me **sana@autotraffic.ca**
 
