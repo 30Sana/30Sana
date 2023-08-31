@@ -1,5 +1,5 @@
 #### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/vvanglro/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/30Sana/count.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=30Sana&show_icons=true&theme=dracula)](https://github.com/vvanglro/vvanglro)
 
