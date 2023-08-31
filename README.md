@@ -9,6 +9,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=30sana&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="30sana" /></p>
 
+<h2 align="center"> </h2>
 
 #### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/30Sana/count.svg)
