@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=30Sana&show_icons=true&theme=dracula)](https://github.com/vvanglro/vvanglro)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=30Sana&show_icons=true&theme=shadow_red)](https://github.com/30Sana/30Sana)
 
 - 📫 How to reach me **sana@autotraffic.ca**
 
