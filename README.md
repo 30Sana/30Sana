@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Reach me at **sana@autotraffic.ca**
+- Reach me at **sansa@autotraffic.ca**
 
 <h2 align="center"> </h2>
 
