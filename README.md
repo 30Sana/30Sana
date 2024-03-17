@@ -15,6 +15,9 @@
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png"></code>
 </p>
 
 <br>
