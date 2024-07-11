@@ -1,29 +1,76 @@
-![Header](./header.png)
+<!-- <p align="center">
+    <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
+    <img alt="" src=https://komarev.com/ghpvc/?username=xtekky&style=for-the-badge />
+</p> -->
 
-<h1 align="center">30Sana</h1>
-<a href="https://github.com/30Sana"></a>
+
+<h2 align="center">About Me </h2>
+
+```python
+from typing import Tuple, List, Dict
+
+class Tekky:
+    pass
+
+class Attributes(Tekky):
+    @property
+    def contact(self) -> Tuple[str, str, str]:
+        telegram = "t.me/defoSana"
+        channel  = "t.me/SanaVouches"
+        email    = "s@autotraffic.ca"
+	    
+        return telegram, channel, email
+
+    @property
+    def life(self) -> Tuple[List[str], int]:
+        langs = ['French', 'German', 'Spanish', 'English']
+        age   = 19
+		
+        return langs, age
+	
+    @property
+    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str]]:
+        langs = {
+            'expert'      : ['python'],
+            'intermediate': ['go', 'js'],
+            'learning'    : ['c', 'c++', 'c#', 'asm', 'java', 'php]
+        }
+        specialities  = ['web/app reverse engineering', 'fullstack', 'ai']
+        ide           = ['vscode']
+        pc            = {
+            'MacOS': {
+                'macbook air m2': {
+                    'processor': 'm2 | 8 cores',
+                    'ram'      : '8gb',
+                    'gpu'      : 'm2 | 8 cores'
+                }
+            },
+            'Windows': {
+                'custom': {
+                    'processor': 'AMD ryzen 9 5900X | 12 cores',
+                    'ram'      : '16gb',
+                    'gpu'      : 'nvidia 3090 | 5888 CUDA cores'
+                }
+            }
+        }
+
+	return langs, specialities, ide, pc
+```
+
+<h2 align="center">Skills </h2>
 
 <p align="center">
-  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=30Sana&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
-  <img height="25" src="https://img.shields.io/github/followers/30Sana?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/> 
-  <img height="25" src="https://img.shields.io/github/stars/30Sana?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/> 
-</p> 
-<h3 align="center">Current Known Languages: (best ➜ least)</h5> 
-<p align="center">  
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png"></code>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html" />
+  </a>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=30Sana&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+<p href="https://discord.gg/SanaSolutions" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=30Sana&theme=tokyonight&show_icons=true">
 </p>
 
-![Footer](./footer.png)
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/>
+</p>
+</p>
+</p>
