@@ -9,10 +9,10 @@
 ```python
 from typing import Tuple, List, Dict
 
-class Tekky:
+class Sana:
     pass
 
-class Attributes(Tekky):
+class Attributes(Sana):
     @property
     def contact(self) -> Tuple[str, str, str]:
         telegram = "t.me/defoSana"
@@ -69,8 +69,5 @@ class Attributes(Tekky):
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=30Sana&theme=tokyonight&show_icons=true">
 </p>
 
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/>
-</p>
 </p>
 </p>
