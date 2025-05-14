@@ -49,7 +49,7 @@ class Attributes(Sana):
                 'custom': {
                     'processor': 'AMD ryzen 9 5900X | 12 cores',
                     'ram'      : '16gb',
-                    'gpu'      : 'nvidia 3090 | 5888 CUDA cores'
+                    'gpu'      : 'nvidia 4090 | 5888 CUDA cores'
                 }
             }
         }
