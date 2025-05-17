@@ -24,7 +24,7 @@ class Attributes(Sana):
     @property
     def life(self) -> Tuple[List[str], int]:
         langs = ['French', 'German', 'Spanish', 'English']
-        age   = 19
+        age   = 20
 		
         return langs, age
 	
@@ -49,7 +49,7 @@ class Attributes(Sana):
                 'custom': {
                     'processor': 'AMD ryzen 9 5900X | 12 cores',
                     'ram'      : '16gb',
-                    'gpu'      : 'nvidia 4090 | 5888 CUDA cores'
+                    'gpu'      : 'nvidia 3090 | 5888 CUDA cores'
                 }
             }
         }
