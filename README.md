@@ -33,7 +33,7 @@ class Attributes(Sana):
         langs = {
             'expert'      : ['python'],
             'intermediate': ['go', 'js'],
-            'learning'    : ['c', 'c++', 'c#', 'asm', 'java', 'php]
+            'learning'    : ['c', 'c++', 'c#', 'asm', 'java', 'php']
         }
         specialities  = ['web/app reverse engineering', 'fullstack', 'ai']
         ide           = ['vscode']
