@@ -23,7 +23,7 @@ class Attributes(Sana):
 
     @property
     def life(self) -> Tuple[List[str], int]:
-        langs = ['French', 'German', 'Spanish', 'English']
+        langs = ['English']
         age   = 20
 		
         return langs, age
@@ -33,7 +33,7 @@ class Attributes(Sana):
         langs = {
             'expert'      : ['python'],
             'intermediate': ['go', 'js'],
-            'learning'    : ['c', 'c++', 'c#', 'asm', 'java', 'php']
+            'learning'    : ['c', 'c++', 'c#', 'asm', 'java', 'php', 'lots more']
         }
         specialities  = ['web/app reverse engineering', 'fullstack', 'ai']
         ide           = ['vscode']
@@ -43,12 +43,13 @@ class Attributes(Sana):
                     'processor': 'm2 | 8 cores',
                     'ram'      : '8gb',
                     'gpu'      : 'm2 | 8 cores'
-                }
+                },
+                'mac neo'
             },
             'Windows': {
                 'custom': {
                     'processor': 'AMD ryzen 9 5900X | 12 cores',
-                    'ram'      : '16gb',
+                    'ram'      : '32gb',
                     'gpu'      : 'nvidia 3090 | 5888 CUDA cores'
                 }
             }
