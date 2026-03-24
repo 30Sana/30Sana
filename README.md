@@ -1,5 +1,7 @@
+<!-- TOP WAVE (INVERTED) -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=header"/>
 </p>
 
 <!-- HERO / HEADER -->
@@ -24,7 +26,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=30Sana&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/xtekky?style=for-the-badge" />
 </p>
 
 ---
@@ -124,6 +125,8 @@ class Attributes(Sana):
 * AI tooling
 
 ---
+
+<!-- BOTTOM WAVE -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
