@@ -126,7 +126,7 @@ class Attributes(Sana):
 
 ---
 
-## 🏆 WakaTime Leaderboards Rank
+## 🏆 WakaTime Leaderboards Rank (#442)
 <img width="1631" height="36" alt="image" src="https://github.com/user-attachments/assets/2593d6a5-01bc-45a3-bf51-04aa49feb00f" />
 
 ---
