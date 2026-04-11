@@ -8,9 +8,6 @@
 
 <h1 align="center">Sana</h1>
 
-## 🏆 WakaTime Leaderboards Rank
-<img width="1631" height="36" alt="image" src="https://github.com/user-attachments/assets/2593d6a5-01bc-45a3-bf51-04aa49feb00f" />
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Reverse+Engineer;Fullstack+Developer;AI+Builder;Security+Researcher" />
 </p>
@@ -129,6 +126,10 @@ class Attributes(Sana):
 
 ---
 
+## 🏆 WakaTime Leaderboards Rank
+<img width="1631" height="36" alt="image" src="https://github.com/user-attachments/assets/2593d6a5-01bc-45a3-bf51-04aa49feb00f" />
+
+---
 <!-- BOTTOM WAVE -->
 
 <p align="center">
