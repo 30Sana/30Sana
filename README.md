@@ -94,48 +94,24 @@ $ git log --oneline --stat
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=30Sana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00F7FF&text_color=C9D1D9&border_radius=8&rank_icon=github&cache_seconds=86400"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=30Sana&show_icons=true&hide_border=false&bg_color=FFFFFF&title_color=007700&icon_color=0066FF&text_color=333333&border_radius=8&rank_icon=github&cache_seconds=86400"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=30Sana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00F7FF&text_color=C9D1D9&border_radius=8&rank_icon=github&cache_seconds=86400"/>
     <img src="https://github-readme-stats.vercel.app/api?username=30Sana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00F7FF&text_color=C9D1D9&border_radius=8&rank_icon=github&cache_seconds=86400" height="165"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=30Sana&hide_border=true&background=0D1117&ring=00FF41&fire=00F7FF&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9&border_radius=8"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=30Sana&hide_border=false&background=FFFFFF&ring=007700&fire=0066FF&currStreakLabel=007700&border_radius=8"/>
-    <img src="https://streak-stats.demolab.com?user=30Sana&hide_border=true&background=0D1117&ring=00FF41&fire=00F7FF&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9&border_radius=8" height="165"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=30Sana&hide_border=true&background=0D1117&ring=00FF41&fire=00F7FF&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=8"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=30Sana&hide_border=true&background=0D1117&ring=00FF41&fire=00F7FF&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=8"/>
+    <img src="https://streak-stats.demolab.com?user=30Sana&hide_border=true&background=0D1117&ring=00FF41&fire=00F7FF&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=8" height="165"/>
   </picture>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=30Sana&theme=github_dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=30Sana&theme=github"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=30Sana&theme=github_dark" width="95%"/>
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=30Sana&theme=2077" width="95%"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=30Sana&theme=github_dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=30Sana&theme=github"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=30Sana&theme=github_dark" height="180"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=30Sana&theme=github_dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=30Sana&theme=github"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=30Sana&theme=github_dark" height="180"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=30Sana&theme=github_dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=30Sana&theme=github"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=30Sana&theme=github_dark" height="180"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=30Sana&bg_color=0D1117&color=00FF41&line=00F7FF&point=FFFFFF&hide_border=true&area=true&area_color=00FF41"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=30Sana&bg_color=FFFFFF&color=007700&line=0066FF&point=333333&hide_border=false&area=true&area_color=007700"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=30Sana&bg_color=0D1117&color=00FF41&line=00F7FF&point=FFFFFF&hide_border=true&area=true&area_color=00FF41" width="95%"/>
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=30Sana&theme=2077" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=30Sana&theme=2077" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=30Sana&theme=2077" height="180"/>
 </p>
 
 <br/>
