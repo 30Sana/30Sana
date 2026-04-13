@@ -92,16 +92,8 @@ $ git log --oneline --stat
 ```
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=30Sana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00F7FF&text_color=C9D1D9&border_radius=8&rank_icon=github&cache_seconds=86400"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=30Sana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00F7FF&text_color=C9D1D9&border_radius=8&rank_icon=github&cache_seconds=86400"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=30Sana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00F7FF&text_color=C9D1D9&border_radius=8&rank_icon=github&cache_seconds=86400" height="165"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=30Sana&hide_border=true&background=0D1117&ring=00FF41&fire=00F7FF&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=8"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=30Sana&hide_border=true&background=0D1117&ring=00FF41&fire=00F7FF&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=8"/>
-    <img src="https://streak-stats.demolab.com?user=30Sana&hide_border=true&background=0D1117&ring=00FF41&fire=00F7FF&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=8" height="165"/>
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=30Sana&theme=2077" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=30Sana&hide_border=true&background=0D1117&ring=00FF41&fire=00F7FF&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=8" height="165"/>
 </p>
 
 <p align="center">
