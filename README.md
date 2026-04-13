@@ -31,7 +31,7 @@ $ cat sana.py
 
 ```python
 class Sana:
-    age      = 20
+    age      = 21
     language = "English"
 
     skills = {
@@ -48,8 +48,9 @@ class Sana:
     ]
 
     hardware = {
-        "MacBook Air M2": {"cpu": "M2 8-core",    "ram": "8GB"},
-        "Custom Desktop": {"cpu": "Ryzen 9 5900X", "ram": "32GB", "gpu": "RTX 3090"},
+        "Mac Neo":        {"os": "macOS"},
+        "Custom Desktop": {"cpu": "Ryzen 9 5900X", "ram": "32GB", "gpu": "RTX 3090", "os": "Windows"},
+        "Attack Box":     {"os": "Kali Linux", "use": "pentesting / RE"},
     }
 
     status = "building things that shouldn't be possible"
@@ -68,11 +69,19 @@ $ cat stack.txt
   </tr>
   <tr>
     <td align="center"><code>tools</code></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,git,linux,docker,androidstudio"/></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,git,docker,androidstudio,linux"/></td>
   </tr>
   <tr>
     <td align="center"><code>web</code></td>
     <td><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,fastapi"/></td>
+  </tr>
+  <tr>
+    <td align="center"><code>os</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+    </td>
   </tr>
 </table>
 
@@ -89,9 +98,35 @@ $ git log --oneline --stat
     <img src="https://github-readme-stats.vercel.app/api?username=30Sana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00F7FF&text_color=C9D1D9&border_radius=8&rank_icon=github&cache_seconds=86400" height="165"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=30Sana&hide_border=true&background=0D1117&ring=00FF41&fire=00F7FF&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9&border_radius=8&cache_seconds=86400"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=30Sana&hide_border=false&background=FFFFFF&ring=007700&fire=0066FF&currStreakLabel=007700&border_radius=8&cache_seconds=86400"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=30Sana&hide_border=true&background=0D1117&ring=00FF41&fire=00F7FF&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9&border_radius=8"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=30Sana&hide_border=false&background=FFFFFF&ring=007700&fire=0066FF&currStreakLabel=007700&border_radius=8"/>
     <img src="https://streak-stats.demolab.com?user=30Sana&hide_border=true&background=0D1117&ring=00FF41&fire=00F7FF&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9&border_radius=8" height="165"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=30Sana&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=30Sana&theme=github"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=30Sana&theme=github_dark" width="95%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=30Sana&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=30Sana&theme=github"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=30Sana&theme=github_dark" height="180"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=30Sana&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=30Sana&theme=github"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=30Sana&theme=github_dark" height="180"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=30Sana&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=30Sana&theme=github"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=30Sana&theme=github_dark" height="180"/>
   </picture>
 </p>
 
