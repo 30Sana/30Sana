@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=30Sana&style=for-the-badge&color=0D2137&label=VIEWS"/>
-  <img src="https://img.shields.io/badge/WakaTime-%23151-0D2137?style=for-the-badge&logo=wakatime&logoColor=79C0FF"/>
+  <img src="https://img.shields.io/badge/WakaTime-%23146-0D2137?style=for-the-badge&logo=wakatime&logoColor=79C0FF"/>
 </p>
 
 <br/>
